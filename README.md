@@ -28,9 +28,9 @@
 
 ## 📊 GitHub Stats
 
-![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prince739895&show_icons=true&theme=radical)
+![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamprince-dev&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prince739895&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamprince-dev&layout=compact&theme=radical)
 
 ---
 
@@ -38,13 +38,13 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [EcommereceWebsite](https://github.com/prince739895/EcommereceWebsite) | Full Stack Ecommerce Web App | React, Node.js, MongoDB |
+| [EcommereceWebsite](https://github.com/iamprince-dev/EcommereceWebsite) | Full Stack Ecommerce Web App | React, Node.js, MongoDB |
 
 ---
 
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prince739895&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamprince-dev&theme=react-dark)
 
 ---
 
